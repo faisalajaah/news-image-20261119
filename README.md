@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/faisalajaah/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/faisalajaah/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-A one-image front page summing up the world news of Thursday 19 November 2026: the Trump–Xi–Putin trilateral meeting in Shenzhen, Israel's rare ground operation in Gaza, the Crimean Bridge attacked again, Anthropic's $81.3bn record IPO, Voyager 1 reaching one light-day from Earth, and Cyclone Akvan bearing down on India's east coast — plus the day's other headlines in the footer.
+A one-image front page summing up the world news of Thursday 19 November 2026: the Trump–Xi–Putin trilateral meeting in Shenzhen, Netanyahu pressing Trump on Iran strikes, Israel's rare ground operation in Gaza, the Crimean Bridge attacked for a third time in a week, Anthropic's Nasdaq debut at $83 a share, and the IMF's warning that global inflation has hit 4.7% — plus the day's other headlines in the footer (Cyclone Akvan, the ICJ's Myanmar genocide judgment, the record Van Gogh sale).
 
 ## Run it
 
